@@ -3,7 +3,7 @@ Repo for the volunteers to report their contributions and share their experience
 
 ## Issue Template:
 
-[Click here](https://github.com/rusthacks/volunteer-contributions/issues/new) to create issue with default template
+[Click here](https://github.com/rusthacks/volunteer-contributions/new?template=Event_issue_format.md) to create issue with default template
 
 ```
 # Event Report format
